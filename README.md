@@ -1,6 +1,6 @@
 # react-native-assignment
 
-This code is a boiler plate code for the famous tic tak toe game.
+This code is a boiler plate code for the famous [tic tak toe game](https://en.wikipedia.org/wiki/Tic-tac-toe).
 
 To be done:
 
