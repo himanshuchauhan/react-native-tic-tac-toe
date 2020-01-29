@@ -1,5 +1,5 @@
 {
-  "name": "TicTac",
+  "name": "React-Native-Tic-Tac-Toe",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,7 +11,10 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.5"
+    "react-native": "0.61.5",
+    "react-native-svg": "^11.0.1",
+    "react-native-svg-animations": "^0.1.9",
+    "svg-path-properties": "^1.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.7.5",
